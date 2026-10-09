@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Gabriel Oyewale — Python Backend Engineer 👋
 
-<!--
-**PrinceGFO/PrinceGFO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**400L Computer Science @ University of Ibadan | Remote (WAT/GMT+1)**
 
-Here are some ideas to get you started:
+Building scalable REST APIs with Django, DRF, FastAPI & PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🚀 Featured Projects
+- **[E-Commerce REST API](https://github.com/PrinceGFO/ecommerce-api)** — Django + DRF + JWT + Cart Logic + Optimized Queries + Pagination
+- **[Task Tracker API](https://github.com/PrinceGFO/task-tracker)** — FastAPI + Async CRUD + Pydantic Validation + JWT Auth
+
+#### 🛠️ Stack
+`Python` `Django` `DRF` `FastAPI` `PostgreSQL` `JWT` `Docker` `Git`
+
+#### 📬 Contact
+📧 huzzuel1@gmail.com | [LinkedIn](https://linkedin.com/in/gabriel-oyewale) | Open to Intern / Junior Backend (Remote)
+
+> Actively seeking remote backend roles with US startups. WAT timezone overlap with EST.
