@@ -12,6 +12,6 @@ Building scalable REST APIs with Django, DRF, FastAPI & PostgreSQL.
 `Python` `Django` `DRF` `FastAPI` `PostgreSQL` `JWT` `Docker` `Git`
 
 #### 📬 Contact
-📧 huzzuel1@gmail.com | [LinkedIn](https://linkedin.com/in/gabriel-oyewale) | Open to Intern / Junior Backend (Remote)
+📧 huzzuel1@gmail.com | Open to Intern / Junior Backend (Remote)
 
 > Actively seeking remote backend roles with US startups. WAT timezone overlap with EST.
